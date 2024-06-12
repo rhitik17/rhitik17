@@ -12,7 +12,7 @@
 
 <h2 align="left">About me</h2>
 
-###
+##
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎲 Fun fact: I code.</p>
 
