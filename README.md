@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React.js and Next.js<br>🎲 Fun fact: I code.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Backend with Nest js<br>🎲 Fun fact: I code.</p>
 
 ###
 
